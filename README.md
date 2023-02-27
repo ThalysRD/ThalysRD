@@ -1,4 +1,4 @@
-Olá e bem-vindo ao meu perfil do GitHub!
+<h1> Olá e bem-vindo ao meu perfil do GitHub! </h1>
 Meu nome é Thalys Rodrigues e sou um desenvolvedor web apaixonado por tecnologia e programação. Este é o lugar onde você pode encontrar alguns dos meus projetos, criados para desenvolver minhas habilidades e explorar diferentes tecnologias.
 
 Projetos
