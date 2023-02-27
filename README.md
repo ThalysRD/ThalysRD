@@ -12,7 +12,8 @@ Ferramentas e tecnologias: React, Node, Express, Docker, Sequelize, Mongoose
 Email: tgbr66@gmail.com
 LinkedIn: https://www.linkedin.com/in/thalysrd/
 Sinta-se à vontade para explorar meus projetos e entrar em contato se quiser conversar ou colaborar em algum projeto. Obrigado pela visita!
-
+<br>
+<br>
 <div align="center">
   <a href="https://github.com/thalysrd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalysrd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
