@@ -9,8 +9,8 @@ Meu nome é Thalys Rodrigues e sou um desenvolvedor web apaixonado por tecnologi
 Linguagens de programação: JavaScript, TypeScript, Python
 Ferramentas e tecnologias: React, Node, Express, Docker, Sequelize, Mongoose
 <h2> Contato </h2>
-Email: tgbr66@gmail.com
-LinkedIn: https://www.linkedin.com/in/thalysrd/
+Email: tgbr66@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/thalysrd/ <br>
 Sinta-se à vontade para explorar meus projetos e entrar em contato se quiser conversar ou colaborar em algum projeto. Obrigado pela visita!
 <br>
 <br>
